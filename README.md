@@ -151,6 +151,11 @@ Android developer地址
 时间:根据文件的大小  
 用途:储存各种数据  
 
+File的几种读写速度比对
+<http://www.baeldung.com/java-write-to-file>
+《Thinking in Java》
+
+
 
 可以放在公有目录也可以放在私有目录
 
